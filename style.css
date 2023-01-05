@@ -1,0 +1,57 @@
+*{
+    margin-top: 0;    
+}
+body{
+    margin-left: 0;
+}
+/* this is header\ */
+.header{
+    background-image: url(images/donation8.jpg); 
+      width: 1440px;
+   height: 659px;
+   background-color: rgba(0, 0, 0, 0.301);
+   background-blend-mode: darken;
+   z-index: 1;
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+margin-left: 0;
+text-align: center;
+/* background: linear-gradient(360deg, #121212 0%, rgba(18, 18, 18, 0) 100%); */
+}
+
+.header-title{
+    color: white;
+    font-weight: 700;
+font-size: 65px;
+width: 826px;
+height: 158px;
+text-align: center;
+padding-left: 300px;
+padding-top: 175px;
+margin-bottom: 0;
+}
+.header-description{ 
+    /* width: 691px;
+height: 56px;
+
+font-style: normal;
+ */
+color: white;
+font-weight: 400;
+font-size: 18px;
+font-family: 'Poppins';
+padding: 0 25%;
+margin-top: 20;
+margin-bottom: 30px;
+}
+.primary-btn{
+    color: white;
+    background: #FF5959;
+border-radius: 5px;
+width: 160px;
+height: 56px;
+padding: 16px 12px;
+font-weight: 600;
+font-size: 20px;
+}
