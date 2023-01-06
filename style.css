@@ -145,4 +145,35 @@ padding-top: 25px;
 padding-left: 50px;
 padding-right:50px ;
 }
-/* preview */
+/* last para */
+.last-data{
+    text-align: center;
+    margin-top: 150px;
+    
+}
+.last-para-heading{
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: o;
+}
+#email{
+    border: none;
+    background-color: rgb(218, 231, 231);
+    border-collapse: collapse;
+}
+.subscribe{
+    color: white;
+    background: #FF5959;
+    border-radius: 5px;
+    border: 1px solid #FF5959;
+    margin-bottom: 30px;
+    border-collapse: collapse;
+    /* color: white;
+    background: #FF5959;
+border-radius: 5px;
+width: 100px;
+height: 56px;
+padding: 16px 12px;
+font-weight: 600;
+font-size: 20px; */
+}
