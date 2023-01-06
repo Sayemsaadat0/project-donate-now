@@ -7,9 +7,9 @@ body{
 /* this is header\ */
 .header{
     background-image: url(images/donation8.jpg); 
-      width: 1440px;
-   height: 659px;
-   background-color: rgba(0, 0, 0, 0.301);
+       width: 1440px; 
+   height: 639px;
+   background-color: rgba(0, 0, 0, 0.315);
    background-blend-mode: darken;
    z-index: 1;
 background-repeat: no-repeat;
@@ -55,3 +55,94 @@ padding: 16px 12px;
 font-weight: 600;
 font-size: 20px;
 }
+/* this is main  */
+/* section Donate today */
+.taka-title{
+    text-align: center;
+}
+.donate-today-title{
+    font-weight: 700;
+font-size: 45px;
+width: 304px;
+height: 54px;
+padding: 130px 560px;
+padding-bottom: 5px;
+
+}
+.donate-today{
+    background-color: white;
+    height: 180px;
+    text-align: center;
+}
+.how-much-taka{
+    display: flex;
+    padding: 20px 150px;
+    padding-bottom: 10px;
+    justify-content: space-around;
+}
+.taka{
+    border: 2px solid red;
+    width: 136px;
+height: 83px;
+padding: 0%;
+margin-left: 20px;
+border-radius: 5px;
+color: rgb(253, 9, 9);
+font-weight: 700;
+font-size: 30px;
+}
+.btn-amount{
+    justify-content: center;
+    text-align: center;
+}
+.other-amount{
+    text-align: center;
+    padding-bottom: 1px;
+}
+/* .primary-btn1{
+    color: white;
+    background: #FF5959;
+border-radius: 5px;
+width: 160px;
+height: 56px;
+padding: 16px 12px;
+font-weight: 600;
+font-size: 20px;
+} */
+.line{
+    width: 400px;
+}
+/* plan */
+.our-donate-plan-div{
+   
+    text-align: center;
+    padding-top: 50px;
+
+}
+.our-donate-plan{
+    font-weight: 700;
+    font-size: 40px;
+    width: 304px;
+    height: 54px;
+    padding: 130px 560px;
+    padding-bottom: 5px;
+}
+.color-color{
+    display: flex;
+    margin-left: 10px;
+    justify-content: space-around;
+}
+.donate-plan-description{
+    text-align: center;
+   padding: 0 70px;
+}
+.background-color{
+    width: 260px;
+    height: 252px;
+    background: rgba(79, 157, 166, 0.1);
+border-radius: 5px;
+padding-top: 25px;
+padding-left: 50px;
+padding-right:50px ;
+}
+/* preview */
